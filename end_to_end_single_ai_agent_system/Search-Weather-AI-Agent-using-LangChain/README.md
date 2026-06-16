@@ -24,23 +24,7 @@ This project demonstrates how to build an agent using Python, LangChain, and Gem
 - WeatherStack API
 - python-dotenv
 
----
 
-## 📂 Project Structure
-
-LangChain-AI-Agent/
-│
-├── app.py # Main application
-├── main.py # Alternative entry point
-├── requirements.txt # Dependencies
-├── .env # API keys (not pushed to GitHub)
-│
-└── research/
-└── agent_demo.ipynb # Experiments & research
-
-
-
----
 
 ## ⚙️ Installation
 
