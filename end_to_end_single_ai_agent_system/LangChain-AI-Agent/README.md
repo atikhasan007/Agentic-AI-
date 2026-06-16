@@ -70,4 +70,6 @@ python main.py
 ```bash
 jupyter notebook research/agent_demo.ipynb
 ```
+ui
+<img width="997" height="582" alt="image" src="https://github.com/user-attachments/assets/677f85e2-ac27-46ae-86de-439ecf31be73" />
 
